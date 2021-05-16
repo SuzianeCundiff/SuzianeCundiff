@@ -25,11 +25,10 @@
 
 - 📫 How to reach me:
 
-    [<img align="left" alt="Suziane Cundiff | LinkedIn" width="25px" src="https://img.icons8.com/ios-filled/100/000000/linkedin.png" />][linkedin]
-    [<img align="left" alt="Suziane Cundiff | Twitter" width="25px" src="https://img.icons8.com/ios-filled/100/000000/twitter-circled.png" />][twitter]
-    [<img align="left" alt="Suziane Cundiff | Codepen" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/codepen.svg" />][codepen]
-    [<img align="left" alt="Suziane Cundiff | Instagram" width="25px" src="https://img.icons8.com/ios-filled/96/000000/instagram-new.png" />][instagram]
-    [<img align="left" alt="Suziane Cundiff | YouTube" width="25px" src="https://img.icons8.com/ios-filled/100/000000/sketchfab.png" />][sketchfab]
+    [<img align="left" alt="Suziane Cundiff | LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" />][linkedin]
+    [<img align="left" alt="Suziane Cundiff | Twitter" src="https://img.shields.io/badge/-Twitter-17BF63?style=flat-square&logo=Twitter&logoColor=white" />][twitter]
+    [<img align="left" alt="Suziane Cundiff | Instagram" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" />][instagram]
+    [<img align="left" alt="Suziane Cundiff | Sketchfab" src="https://img.shields.io/badge/-Sketchfab-FF9E3A?style=flat-square&logo=Sketchfab&logoColor=white" />][sketchfab]
 
 <br>
 <br>
